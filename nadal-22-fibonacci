@@ -23,6 +23,6 @@ public class LabProgram {
       int startNum;
       
       startNum = scnr.nextInt();
-      System.out.println("fibonacci(" + startNum + ") is " + fibonacci(startNum));
+      System.out.println("fibosomethingnacci(" + startNum + ") is " + fibonacci(startNum));
    }
 }
